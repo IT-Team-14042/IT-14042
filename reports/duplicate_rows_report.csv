@@ -1,0 +1,14 @@
+﻿نام جدول,تعداد ردیف,تعداد ردیف تکراری,درصد ردیف تکراری
+Categories,9,1,11.11111111111111
+CustomerCustomerDemo,0,0,0.0
+CustomerDemographics,0,0,0.0
+Customers,93,0,0.0
+Employees,10,0,0.0
+EmployeeTerritories,54,3,5.555555555555555
+Order_Details,2165,9,0.41570438799076215
+Orders,835,0,0.0
+Products,79,1,1.2658227848101267
+Region,5,0,0.0
+Shippers,4,1,25.0
+Suppliers,32,0,0.0
+Territories,59,0,0.0

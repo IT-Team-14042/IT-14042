@@ -1,0 +1,9 @@
+﻿نام جدول,نام ستون,نوع داده,تعداد ردیف,تعداد مقدار گمشده,درصد مقدار گمشده
+Categories,Description,str,9,4,44.44444444444444
+Customers,Region,str,93,61,65.59139784946237
+Customers,Fax,str,93,31,33.33333333333333
+Employees,Region,str,10,5,50.0
+Orders,ShipRegion,str,835,511,61.197604790419156
+Products,QuantityPerUnit,str,79,26,32.91139240506329
+Suppliers,Region,str,32,22,68.75
+Suppliers,Fax,str,32,22,68.75
