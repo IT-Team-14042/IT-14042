@@ -1,5 +1,5 @@
 ﻿بررسی,تعداد,درصد,پیام
-Quantity <= 0,10,0.4618937644341801,Checked in Order_Details.
-UnitPrice <= 0,6,0.27713625866050806,Checked in Order_Details.
-Quantity Missing,15,0.6928406466512702,Checked in Order_Details.
-UnitPrice Missing,6,0.27713625866050806,Checked in Order_Details.
+Quantity <= 0,10,0.4618937644341801,در جدول Order_Details بررسی شد.
+UnitPrice <= 0,6,0.27713625866050806,در جدول Order_Details بررسی شد.
+Quantity Missing,15,0.6928406466512702,در جدول Order_Details بررسی شد.
+UnitPrice Missing,6,0.27713625866050806,در جدول Order_Details بررسی شد.

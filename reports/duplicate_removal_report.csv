@@ -1,0 +1,14 @@
+﻿نام جدول,تعداد ردیف قبل,تعداد ردیف بعد,تعداد ردیف حذف‌شده
+Categories,9,8,1
+CustomerCustomerDemo,0,0,0
+CustomerDemographics,0,0,0
+Customers,93,93,0
+Employees,10,10,0
+EmployeeTerritories,54,51,3
+Order_Details,2165,2156,9
+Orders,835,835,0
+Products,79,78,1
+Region,5,4,1
+Shippers,4,3,1
+Suppliers,32,31,1
+Territories,59,57,2
