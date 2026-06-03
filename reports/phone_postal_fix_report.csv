@@ -1,0 +1,11 @@
+﻿نام جدول, نام ستون, نوع قبل, نوع بعد, وضعیت
+Customers,PostalCode,str,str, درست است
+Customers,Phone,str,str, درست است
+Customers,Fax,str,str, درست است
+Employees,PostalCode,str,str, درست است
+Employees,HomePhone,str,str, درست است
+Orders,ShipPostalCode,str,str, درست است
+Shippers,Phone,str,str, درست است
+Suppliers,PostalCode,str,str, درست است
+Suppliers,Phone,str,str, درست است
+Suppliers,Fax,str,str, درست است
