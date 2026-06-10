@@ -1,0 +1,22 @@
+﻿جدول,ویژگی جدید,نوع داده,تعداد مقادیر غیرتهی
+Order_Details,OrderValue,float64,2136
+Order_Details,UnitPrice_Standardized,float64,2136
+Order_Details,UnitPrice_Normalized,float64,2136
+Order_Details,Quantity_Standardized,float64,2136
+Order_Details,Quantity_Normalized,float64,2136
+Order_Details,OrderValue_Standardized,float64,2136
+Order_Details,OrderValue_Normalized,float64,2136
+Orders,OrderYear,int32,830
+Orders,OrderMonth,int32,830
+Orders,OrderDay,int32,830
+Orders,DayOfWeek,str,830
+Orders,Quarter,int32,830
+Orders,Freight_Standardized,float64,830
+Orders,Freight_Normalized,float64,830
+Products,UnitPrice_Standardized,float64,77
+Products,UnitPrice_Normalized,float64,77
+Products,PriceCategory,str,77
+CustomerFeatures,TotalOrders,int64,90
+CustomerFeatures,TotalSpent,float64,90
+CustomerFeatures,AvgOrderValue,float64,90
+CustomerFeatures,StdOrderValue,float64,90

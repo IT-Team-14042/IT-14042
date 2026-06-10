@@ -1,0 +1,4 @@
+﻿جدول,ستون,تعداد پرت (IQR),درصد پرت (IQR),تعداد پرت (Z-Score),درصد پرت (Z-Score),توافق
+Order_Details,UnitPrice,104,4.87%,31,1.45%,متفاوت
+Order_Details,Quantity,93,4.35%,19,0.89%,متفاوت
+Orders,Freight,71,8.55%,8,0.96%,متفاوت

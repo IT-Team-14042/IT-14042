@@ -1,9 +1,9 @@
 ﻿نام جدول,نام ستون,نوع داده,تعداد Missing قبل,درصد Missing قبل,روش جایگزینی,تعداد Missing بعد
 Categories,Description,str,4,50.0,جایگزینی با Unknown,0
-Customers,ContactTitle,str,4,4.301075268817205,جایگزینی با Unknown,0
-Customers,Region,str,61,65.59139784946237,جایگزینی با Unknown,0
-Customers,PostalCode,str,11,11.827956989247312,جایگزینی با Unknown,0
-Customers,Fax,str,31,33.33333333333333,جایگزینی با Unknown,0
+Customers,ContactTitle,str,4,4.395604395604396,جایگزینی با Unknown,0
+Customers,Region,str,60,65.93406593406593,جایگزینی با Unknown,0
+Customers,PostalCode,str,11,12.087912087912088,جایگزینی با Unknown,0
+Customers,Fax,str,30,32.967032967032964,جایگزینی با Unknown,0
 Employees,FirstName,str,1,10.0,جایگزینی با Unknown,0
 Employees,TitleOfCourtesy,str,2,20.0,جایگزینی با Unknown,0
 Employees,Region,str,5,50.0,جایگزینی با Unknown,0
@@ -14,11 +14,11 @@ Employees,PhotoPath,str,1,10.0,جایگزینی با Unknown,0
 Order_Details,UnitPrice,float64,6,0.27829313543599254,جایگزینی با میانه: 18.4,0
 Order_Details,Quantity,float64,15,0.6957328385899815,جایگزینی با میانه: 20.0,0
 Order_Details,Discount,float64,19,0.8812615955473098,جایگزینی با صفر,0
-Orders,ShippedDate,str,35,4.191616766467066,جایگزینی با Unknown,0
-Orders,ShipRegion,str,511,61.197604790419156,جایگزینی با Unknown,0
-Orders,ShipPostalCode,str,29,3.473053892215569,جایگزینی با Unknown,0
-Products,QuantityPerUnit,str,26,33.33333333333333,جایگزینی با Unknown,0
-Suppliers,ContactName,str,4,12.903225806451612,جایگزینی با Unknown,0
-Suppliers,City,str,4,12.903225806451612,جایگزینی با Unknown,0
-Suppliers,Region,str,21,67.74193548387096,جایگزینی با Unknown,0
-Suppliers,Fax,str,22,70.96774193548387,جایگزینی با Unknown,0
+Orders,ShippedDate,str,35,4.216867469879518,جایگزینی با Unknown,0
+Orders,ShipRegion,str,507,61.084337349397586,جایگزینی با Unknown,0
+Orders,ShipPostalCode,str,29,3.493975903614458,جایگزینی با Unknown,0
+Products,QuantityPerUnit,str,25,32.467532467532465,جایگزینی با Unknown,0
+Suppliers,ContactName,str,3,10.344827586206897,جایگزینی با Unknown,0
+Suppliers,City,str,4,13.793103448275861,جایگزینی با Unknown,0
+Suppliers,Region,str,20,68.96551724137932,جایگزینی با Unknown,0
+Suppliers,Fax,str,20,68.96551724137932,جایگزینی با Unknown,0

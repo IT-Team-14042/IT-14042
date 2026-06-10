@@ -1,0 +1,4 @@
+﻿رابطه,جدول فرزند,ستون فرزند,جدول مرجع,ستون مرجع,تعداد خطای قبل,اقدام انجام‌شده,تعداد ردیف اصلاح/حذف‌شده,تعداد خطای بعد,توضیح
+Order_Details.OrderID -> Orders.OrderID,Order_Details,OrderID,Orders,OrderID,2,حذف ردیف‌های Order_Details با OrderID نامعتبر,2,0,ردیف‌های دارای شناسه مرجع نامعتبر از جدول فرزند حذف شدند.
+Products.CategoryID -> Categories.CategoryID,Products,CategoryID,Categories,CategoryID,0,نیاز به اصلاح نداشت,0,0,رابطه معتبر بود.
+Order_Details.ProductID -> Products.ProductID,Order_Details,ProductID,Products,ProductID,2,حذف ردیف‌های Order_Details با ProductID نامعتبر,2,0,ردیف‌های دارای شناسه مرجع نامعتبر از جدول فرزند حذف شدند.
